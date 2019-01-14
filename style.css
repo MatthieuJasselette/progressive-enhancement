@@ -1,3 +1,10 @@
+body {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	color: #ff9900;
+}
+
 h1 {
 	font: Linux Libertine;
 	font-size: 18 px;
