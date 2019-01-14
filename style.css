@@ -48,6 +48,12 @@ caption {
 	color: #4b0082; // indigo
 }
 
+figcaption {
+	font: Linux Libertine;
+	font-size: 10 px;
+	color: #4b0082; // indigo
+}
+
 table{
 
 }
