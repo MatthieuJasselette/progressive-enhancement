@@ -2,8 +2,8 @@ body {
 	width: 90%;
 	margin-left: 5%;
 	margin-right: 5%;
-	color: #ff9900;
-	background-color: #ff9900;
+	// color: #ff9900;
+	background-color: #ff9900; brique pisseuse
 }
 
 h1 {
@@ -37,9 +37,12 @@ q{
 
 blockquote {
 	font: Linux Libertine;
-	font-size: 12 px;
+	font-size: 160%;
 	color: #4b0082; // indigo
-	line-height: 8pt;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #c2d6d6 ; gris léger
 }
 
 figure{
