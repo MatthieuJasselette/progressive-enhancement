@@ -26,3 +26,55 @@ q{
 	color: #4b0082; // indigo
 	line-height: 8pt;
 }
+
+blockquote {
+	font: Linux Libertine;
+	font-size: 12 px;
+	color: #4b0082; // indigo
+	line-height: 8pt;
+}
+
+figure{
+
+}
+
+img {
+
+}
+
+caption {
+	font: Linux Libertine;
+	font-size: 10 px;
+	color: #4b0082; // indigo
+}
+
+table{
+
+}
+
+th {
+	font: Linux Libertine;
+	font-size: 13 px;
+	color: #4b0082; // indigo
+}
+
+tr{
+
+}
+
+td {
+	font: Linux Libertine;
+	font-size: 11 px;
+	color: #4b0082; // indigo
+}
+
+ul{
+
+}
+
+li {
+	font: Linux Libertine;
+	font-size: 12 px;
+	color: #4b0082; // indigo
+	line-height: 8pt;
+}
