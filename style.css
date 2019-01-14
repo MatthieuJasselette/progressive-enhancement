@@ -84,3 +84,19 @@ li {
 	color: #4b0082; // indigo
 	line-height: 8pt;
 }
+
+a {
+	font: Linux Libertine;
+	font-size: 12 px;
+	color: #4b0082; // indigo
+	line-height: 8pt;
+}
+
+a:visited {
+	color: #008080 ; // teal
+	text-decoration: underline;
+}
+
+a:hover {
+	color: ; //light-grey
+}
