@@ -6,6 +6,12 @@ body {
 	background-color: #ff9900; brique pisseuse
 }
 
+footer {
+	font: Linux Libertine;
+	font-size: 12 px;
+	color: #4b0082; // indigo
+}
+
 h1 {
 	font: Linux Libertine;
 	font-size: 18 px;
