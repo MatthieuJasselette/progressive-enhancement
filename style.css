@@ -3,7 +3,9 @@ body {
 	margin-left: 5%;
 	margin-right: 5%;
 	// color: #ff9900; // color ne fonctionne pas, il faut utiliser background-color
-	background-color: #ff9900; // brique pisseuse
+	// background-color: #ff9900; // brique pisseuse
+	background: linear-gradient(-49deg, rgb(243, 217, 163), rgb(183, 196, 10)); // dégradé
+
 }
 
 footer {
