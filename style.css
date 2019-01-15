@@ -2,7 +2,7 @@ body {
 	width: 90%;
 	margin-left: 5%;
 	margin-right: 5%;
-	// color: #ff9900;
+	// color: #ff9900; // color ne fonctionne pas, il faut utiliser background-color
 	background-color: #ff9900; // brique pisseuse
 }
 
