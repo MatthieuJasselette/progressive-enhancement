@@ -38,6 +38,16 @@ p{
 	line-height: 8pt;
 }
 
+em {
+	font
+}
+em.Bien{
+	color:green;
+}
+
+em.Mal{
+	color: red;
+}
 
 q{
 	font: Garamond;
