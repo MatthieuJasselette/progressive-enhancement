@@ -3,12 +3,12 @@ body {
 	margin-left: 5%;
 	margin-right: 5%;
 	/* color: #ff9900; // color ne fonctionne pas, il faut utiliser background-color
-	background-color: #ff9900; // brique pisseuse*/
+	background-color: #ff9900; // brique pisseuse abandonné au profit d'un dégradé*/
 	background: linear-gradient(-49deg, rgb(243, 217, 163), rgb(183, 196, 10)); // dégradé
-	/*background-image: url("alert.png");
-  	background-position: bottom right;
- 	background-repeat: no-repeat;*/ // Code pour ajouter une image au background qui ne se répète pas
-
+	background-image: url("C_F_painting.png"); // Code pour ajouter une image qui ne se répète pas en bas à droite
+	background-repeat: no-repeat;
+  background-position: bottom right;
+	background-size: cover; 
 }
 
 footer {
@@ -54,24 +54,24 @@ blockquote {
 	margin-left: 25%;
 	margin-right: 25%;
 	background-color: #c2d6d6 ; // gris léger
-	border-left: 3px solid #C64A0C; // brique
+	border-left: 3px solid #C64A0C; // brique ne fonctionne pas
 	padding-left: 30px;
 	margin-top: 80px;
 	margin-bottom: 80px;
-}
-
-figure{
-
-}
-
-img {
-
 }
 
 caption {
 	font: Linux Libertine;
 	font-size: 10 px;
 	color: #4b0082; // indigo
+}
+
+figure{
+	text-align: center;
+}
+
+img {
+	size: 100%;
 }
 
 figcaption {
