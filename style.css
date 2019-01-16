@@ -131,19 +131,26 @@ li {
 	font: Linux Libertine;
 	font-size: 12 px;
 	color: #4b0082; // indigo
-	line-height: 8pt;
+	line-height: 24pt;
 }
 
 li:nth-of-type(1) {
 	background-image: url("bien.png")
+	background-repeat: no-repeat;
+  background-position: right;
+
 }
 
 li:nth-of-type(2) {
 	background-image: url("mal.png")
+	background-repeat: no-repeat;
+	background-position: right;
 }
 
 li:nth-of-type(3) {
 	background-image: url("chat.png")
+	background-repeat: no-repeat;
+	background-position: right;
 }
 
 a {
