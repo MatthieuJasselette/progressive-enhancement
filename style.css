@@ -6,7 +6,7 @@ body {
 	background-color: #ff9900; // brique pisseuse abandonné au profit d'un dégradé*/
 	background: linear-gradient(49deg, rgb(243, 217, 163), rgb(183, 196, 10)); // dégradé
 	background-image: url("C_F_painting.png"); // Code pour ajouter une image qui ne se répète pas en bas à droite
-	background-repeat: no-repeat;
+	// background-repeat: no-repeat;
   background-position: bottom right;
 	background-size: cover;
 }
@@ -35,6 +35,10 @@ p{
 	font-size: 12 px;
 	color: #4b0082; // indigo
 	line-height: 8pt;
+}
+
+p:nth-of-type(2){
+	font-weight: bold;
 }
 
 em {
@@ -135,22 +139,22 @@ li {
 }
 
 li:nth-of-type(1) {
-	background-image: url("bien.png")
-	background-repeat: no-repeat;
-  background-position: right;
+	list-style-image: url("bien.png")
+	/*background-repeat: no-repeat;
+  background-position: right;*/
 
 }
 
 li:nth-of-type(2) {
-	background-image: url("mal.png")
-	background-repeat: no-repeat;
-	background-position: right;
+	list-style-image: url("mal.png")
+	/*background-repeat: no-repeat;
+	background-position: right;*/
 }
 
 li:nth-of-type(3) {
-	background-image: url("chat.png")
-	background-repeat: no-repeat;
-	background-position: right;
+	list-style-image: url("chat.png")
+	/*background-repeat: no-repeat;
+	background-position: right;*/
 }
 
 a {
