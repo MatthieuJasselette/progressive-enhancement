@@ -39,7 +39,8 @@ p{
 }
 
 em {
-	text-transform: capitalize;
+	//text-transform: capitalize;
+	text-transform: uppercase;
 }
 em.Bien{
 	color:green;
