@@ -63,10 +63,11 @@ blockquote {
 	margin-left: 25%;
 	margin-right: 25%;
 	background-color: #c2d6d6 ; // gris léger
-	border-left: 3px solid #C64A0C; // brique ne fonctionne pas
+	padding-left: 30px;
+	/*border-left: 3px solid #C64A0C; // brique ne fonctionne pas
 	padding-left: 30px;
 	margin-top: 80px;
-	margin-bottom: 80px;
+	margin-bottom: 80px;*/
 }
 
 caption {
