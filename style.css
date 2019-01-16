@@ -8,7 +8,7 @@ body {
 	background-image: url("C_F_painting.png"); // Code pour ajouter une image qui ne se répète pas en bas à droite
 	background-repeat: no-repeat;
   background-position: bottom right;
-	background-size: cover; 
+	background-size: cover;
 }
 
 footer {
@@ -42,8 +42,17 @@ p{
 q{
 	font: Garamond;
 	font-size: 12 px;
+	font-style: italic;
 	color: #4b0082; // indigo
 	line-height: 8pt;
+}
+
+peon {
+	border : 2px solid blue;
+}
+
+oldPeon {
+	border : 2px solid red;
 }
 
 blockquote {
