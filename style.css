@@ -3,8 +3,8 @@ body {
 	margin-left: 5%;
 	margin-right: 5%;
 	/* color: #ff9900; // color ne fonctionne pas, il faut utiliser background-color
-	background-color: #ff9900; // brique pisseuse abandonné au profit d'un dégradé
-	background: linear-gradient(-49deg, rgb(243, 217, 163), rgb(183, 196, 10)); // dégradé */
+	background-color: #ff9900; // brique pisseuse abandonné au profit d'un dégradé*/
+	background: linear-gradient(-49deg, rgb(243, 217, 163), rgb(183, 196, 10)); // dégradé
 	background-image: url("C_F_painting.png"); // Code pour ajouter une image qui ne se répète pas en bas à droite
 	background-repeat: no-repeat;
   background-position: bottom right;
