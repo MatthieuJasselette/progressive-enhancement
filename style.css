@@ -94,10 +94,13 @@ caption {
 
 figure{
 	text-align: center;
+
 }
 
 img {
 	size: 100%;
+	float: left;
+	margin-right: 10px;
 }
 
 figcaption {
